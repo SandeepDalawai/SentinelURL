@@ -121,7 +121,3 @@ Add screenshots here after capturing the running application.
 ## Limitations and next steps
 
 Heuristics produce review signals and can yield false positives or miss threats. There is no trained model, external reputation integration, DNS/RDAP inspection, PDF report, account system, or multi-user access control. SQLite is intended for local use. A future release could add consent-gated reputation adapters, opt-in DNS/RDAP with SSRF-safe resolvers, a vetted licensed dataset and reproducible ML training, PDF export, and database migrations.
-
-## License
-
-No project license has been selected. Third-party dependency licenses remain those of their respective authors; review them before redistribution. No dataset is included or used.
